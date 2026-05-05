@@ -136,7 +136,7 @@ body{
         <div class="card">
             <h3>Pending Complaints</h3>
             <p>Check pending complaints.</p>
-            <a href="viewPendingComplaints.jsp">
+            <a href="showPendingComplaints.jsp">
                 <button>Open</button>
             </a>
         </div>

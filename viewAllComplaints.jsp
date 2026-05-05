@@ -37,11 +37,13 @@ h2{
     color:#2c3e50;
 }
 
-/* table */
 table{
     width:100%;
-    border-collapse:collapse;
     margin-top:20px;
+    border-collapse:separate;   
+    border-spacing:0;          
+    border-radius:12px;
+    overflow:hidden;           
 }
 
 th{

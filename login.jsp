@@ -15,7 +15,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 
-    /* background image with dark overlay */
+   
     background: 
         linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
         url("https://images.unsplash.com/photo-1551434678-e076c223a692");
@@ -31,7 +31,7 @@ body{
     margin:0;
 }
 
-/* Glass card */
+
 .container{
     background: rgba(255,255,255,0.95);
     backdrop-filter: blur(6px);
